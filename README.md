@@ -20,4 +20,4 @@ Logistic Regression is a statistical model used for classification tasks, partic
    - Split the data into training and testing sets.
 4. **Model Training**: Use the training data to train the logistic regression model.
 5. **Prediction**: Use the trained model to predict classifications on the test data.
-6. **Performance Evaluation**: Use metrics such as accuracy, confusion matrix, and classification report to evaluate the model's performance.￼Enter
+6. **Performance Evaluation**: Use metrics such as accuracy, confusion matrix, and classification report to evaluate the model's performance.
